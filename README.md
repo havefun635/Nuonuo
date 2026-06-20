@@ -1,2 +1,4 @@
 # Nuonuo
-This website is for messing around, and 'Nuonuo' refers to the chibi version of Flolo from wuthering wave.  //  这个网站是用于整活的，是鸣潮弗洛洛的Q版形象
+This website is for messing around, //  这个网站是用于整活的，
+and Nuonuo in China is a chibi version of Wuthering Wave's  Phrolova .  // 糯糯在中国是《鸣潮》弗洛洛的一种Q版形象.
+Phrolova is a good woman！//弗洛洛是好女人！
